@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662410683433",
+    "project_id": "soccer-simulator-dio-sportheca",
+    "storage_bucket": "soccer-simulator-dio-sportheca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662410683433:android:7e5e24b286364f070e2838",
+        "android_client_info": {
+          "package_name": "com.danlibs.soccersimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662410683433-3mt5uktqmi1mf053dugms70601ojqu2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp00voaUewNu1YVtgxyweQnbK0Jz5HqmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662410683433-3mt5uktqmi1mf053dugms70601ojqu2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

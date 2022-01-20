@@ -1,7 +1,6 @@
 package com.danlibs.soccersimulator.ui
 
 import android.os.Bundle
-import android.service.autofill.FieldClassification
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.danlibs.soccersimulator.databinding.ActivityDetailBinding
@@ -9,6 +8,7 @@ import com.danlibs.soccersimulator.domain.Match
 
 class DetailActivity : AppCompatActivity() {
     private lateinit var binding: ActivityDetailBinding
+
     object Extras {
         const val MATCH = "EXTRA_MATCH"
     }
@@ -22,7 +22,7 @@ class DetailActivity : AppCompatActivity() {
         setSupportActionBar(binding.toolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
-        loadMatchFromExtra();
+        loadMatchFromExtra()
     }
 
     private fun loadMatchFromExtra() {
@@ -44,7 +44,6 @@ class DetailActivity : AppCompatActivity() {
             if (it.homeTeam.score != null) {
                 binding.tvAwayTeamScore.text = it.awayTeam.score.toString()
             }
-
 
 
         }
