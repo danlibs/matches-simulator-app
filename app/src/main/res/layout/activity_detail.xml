@@ -162,6 +162,29 @@
                 app:layout_constraintStart_toEndOf="@+id/tvVersus"
                 app:layout_constraintTop_toTopOf="@+id/ivAwayTeam"
                 tools:text="99" />
+
+            <TextView
+                android:id="@+id/tvHomePlayers"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:text="Players"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvHomeTeamName"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/tvAwayPlayers"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:text="Players"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvAwayTeamName"
+                tools:ignore="HardcodedText" />
+
         </androidx.constraintlayout.widget.ConstraintLayout>
     </androidx.core.widget.NestedScrollView>
 

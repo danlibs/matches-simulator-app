@@ -12,5 +12,7 @@ data class Team(
     val strength: Int,
     @SerializedName("image")
     val image: String,
-    var score: Int?
+    var score: Int?,
+    @SerializedName("players")
+    val players: Array<String>
 ) : Parcelable
