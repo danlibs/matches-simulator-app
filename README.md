@@ -6,3 +6,5 @@ This is an android app for soccer matches simulations developed for the Sporthec
      - [release/desenvolvimento-nativo-para-android](https://github.com/danlibs/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
  2. Componentes, Layouts, UI, UX em Apps Android
      - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/danlibs/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
+ 3. Java e Kotlin Juntos!? Construindo Apps Android
+     - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/danlibs/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
