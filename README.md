@@ -4,3 +4,5 @@ This is an android app for soccer matches simulations developed for the Sporthec
 
  1. Desenvolvimento Mobile Nativo para Android
      - [release/desenvolvimento-nativo-para-android](https://github.com/danlibs/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
+ 2. Componentes, Layouts, UI, UX em Apps Android
+     - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/danlibs/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
